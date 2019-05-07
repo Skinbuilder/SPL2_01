@@ -6,7 +6,7 @@
 - [ ] git Befehle
 - [ ] git Übungen
 
-#### Teil 2
+### Teil 2
 - [ ] Python 3.x installieren
 - [ ] erste Schritte mit Python
 - [ ] programmieren mit Python
